@@ -1,19 +1,14 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Vacation Planner Mobile App</title>
+    <title>Vacation Planner App</title>
 </head>
 <body>
-  <h1>Vacation Planner Mobile App</h1>
-  <p>
-    This Android mobile application allows users to manage vacations and excursions,
-    log in securely, generate reports, and search vacation records.
-  </p>
-
-  <p>
-    <a href="VacationPlanner.apk" download>Download the APK</a>
-  </p>
+    <h1>Vacation Planner App</h1>
+    <p>This is my D424 Software Engineering Capstone Android application.</p>
+    <h2>Download the App</h2>
+    <a href="https://raw.githubusercontent.com/HBell-IT/d424-vacation-planner-hosting/main/app-debug.apk" download>
+        Click here to download the APK
+    </a>
 </body>
 </html>
